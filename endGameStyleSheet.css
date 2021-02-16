@@ -1,0 +1,10 @@
+.winOrLoss
+{
+    color: white;
+    font-size: 15px;
+    text-align:center;
+    width:400px;
+    height:600px;
+    top: 260px;
+    position:relative;
+}

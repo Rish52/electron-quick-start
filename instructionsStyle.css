@@ -1,0 +1,18 @@
+.instructions
+{
+    color: white;
+    font-size: 15px;
+    text-align:center;    
+    width:400px;
+    height:600px;
+    position:relative;
+
+}
+.center-button
+{
+    position: absolute;
+    left: 130px;
+    top: 450px;
+    width: 150px;
+    height: 50px;
+}
