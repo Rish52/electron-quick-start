@@ -50,7 +50,7 @@ var render = function() {
   context.fillRect(0, 0, width, height);
   player.render();
   if (currLevel == 1 && !inLevel) {
-    level5();
+    level1();
     inLevel = true;
   } else if (currLevel == 2 && !inLevel) {
     numLives = 0;
